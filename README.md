@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/martand0007/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/martand0007/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/martand0007/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3871-count-commas-in-range-ii](https://github.com/martand0007/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Number Theory
 |  |
 | ------- |
