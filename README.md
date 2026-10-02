@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/martand0007/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/martand0007/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/martand0007/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/martand0007/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/martand0007/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/martand0007/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/martand0007/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/martand0007/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/martand0007/leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/martand0007/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/martand0007/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/martand0007/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/martand0007/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/martand0007/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/martand0007/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/martand0007/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
