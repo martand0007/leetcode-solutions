@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/martand0007/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/martand0007/leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/martand0007/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/martand0007/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/martand0007/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Number Theory
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/martand0007/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/martand0007/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/martand0007/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/martand0007/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/martand0007/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
 |  |
