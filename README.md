@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/martand0007/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/martand0007/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/martand0007/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
+| [3934-smallest-unique-subarray](https://github.com/martand0007/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/martand0007/leetcode-solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Math
 |  |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/martand0007/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/martand0007/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/martand0007/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/martand0007/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 ## Combinatorics
 |  |
 | ------- |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/martand0007/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/martand0007/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/martand0007/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3934-smallest-unique-subarray](https://github.com/martand0007/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 ## Union-Find
 |  |
 | ------- |
@@ -401,4 +404,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/martand0007/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/martand0007/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/martand0007/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/martand0007/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
